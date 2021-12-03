@@ -32,8 +32,9 @@ You can click the Preview link to take a look at your changes.  --->
 <img src="https://img.shields.io/badge/python%20-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/express%20-%2342853D.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mongodb%20-%2342853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/java%20-%2342853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
  </p>
-    
+   ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AkashMarkad&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
