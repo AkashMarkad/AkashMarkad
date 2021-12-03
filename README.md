@@ -2,14 +2,14 @@
 You can click the Preview link to take a look at your changes.  --->
 
 # 👋 Hello, I’m [Akash Markad](https://github.com/AkashMarkad)
-<h1 align="center"> Hi 👋, I'm Akash Markad</h1>
+<!-- <h1 align="center"> Hi 👋, I'm Akash Markad</h1> -->
 <p align="center">
     <a href="https://github.com/AkashMarkad"></a> 
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 
 <p align="center">
-  <samp>I am a Third year student at Rajarambapu Institute of Technology Islampur , Sangli . I am currently doing my BTech in Computer Science and Information Technology. 
+  <samp>I am a third year student at Rajarambapu Institute of Technology Islampur , Sangli . I am currently doing my BTech in Computer Science and Information Technology. 
 </samp><br>
 </p>
 
