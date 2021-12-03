@@ -17,7 +17,6 @@ I am an open source Contributor and an web development addict.
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AkashMarkad) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akash-markad-7218b4195/) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akash_markad_001/) 
-<!-- [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://pirogrammer1.blogspot.com) -->
 </div>
 <h2 align="center"> 🔭 Technology Stack</h2>
 
@@ -27,18 +26,9 @@ I am an open source Contributor and an web development addict.
 <img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white " />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white " />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python%20-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
-<!-- <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp; -->
 <img src="https://img.shields.io/badge/express%20-%2342853D.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mongodb%20-%2342853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-    
  </p>
- 
-<!--  <h2 align="center">Trophies</h2>
-<div align="center">
-    
-[![trophy](https://github-profile-trophy.vercel.app/?username=Siddhi-244)](https://github.com/ryo-ma/github-profile-trophy)
-</div> -->
-
     
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AkashMarkad&count_private=true&show_icons=true&theme=tokyonight" />
