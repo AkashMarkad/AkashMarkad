@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.  --->
     <a href="https://github.com/AkashMarkad"></a> 
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
+
 <p align="center">
-  <samp>I am a Third year student at Rajarambapu Institute of Technology college of engineering currently doing my Bachelors in Computer Science and Information Technology Engineering. 
-I am an open source Contributor and an web development addict.
+  <samp>I am a Third year student at Rajarambapu Institute of Technology Islampur , Sangli . I am currently doing my BTech in Computer Science and Information Technology. 
 </samp><br>
 </p>
 
