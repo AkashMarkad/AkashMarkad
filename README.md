@@ -1,3 +1,7 @@
+<!--- AkashMarkad/AkashMarkad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.  --->
+
+# 👋 Hello, I’m [Akash Markad](https://github.com/AkashMarkad)
 <h1 align="center"> Hi 👋, I'm Akash Markad</h1>
 <p align="center">
     <a href="https://github.com/AkashMarkad"></a> 
