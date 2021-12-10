@@ -36,11 +36,11 @@ You can click the Preview link to take a look at your changes.  --->
  </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkashMarkad&count_private=true&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhibarkade111&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhibarkade111&layout=compact&theme=react&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMarkad&layout=compact&theme=react&count_private=false" />
 </div>
 
  <div align="center">
