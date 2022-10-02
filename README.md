@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.  --->
 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AkashMarkad) 
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akash-markad-7218b4195/) 
-[<img align="center"  color = "pink" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akash_markad_001/) 
+[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akash_markad_001/) 
 </div>
 <h2 align="center"> 🔭 Technology Stack</h2>
 
