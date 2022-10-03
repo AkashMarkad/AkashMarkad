@@ -1,5 +1,11 @@
+
 <!--- AkashMarkad/AkashMarkad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  --->
+
+<div align="center">
+  <a href="https://github.com/AkashMarkad/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
 
 # 👋 Hello, I’m [Akash Markad](https://github.com/AkashMarkad)
 <!-- <h1 align="center"> Hi 👋, I'm Akash Markad</h1> -->
