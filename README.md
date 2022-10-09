@@ -64,6 +64,11 @@ You can click the Preview link to take a look at your changes.  --->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AkashMarkad)  
 </div>
 
+<div align="center">
+<h1> Hacktoberfest 2022 Badge Board</h1>
+[![@akashmarkad's Holopin board](https://holopin.io/api/user/board?user=akashmarkad)](https://holopin.io/@akashmarkad)
+</div>
+
     
 <div align="center">
         
