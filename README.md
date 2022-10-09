@@ -62,11 +62,12 @@ You can click the Preview link to take a look at your changes.  --->
 <div align="center">
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AkashMarkad)  
+![@akashmarkad's Holopin board](https://holopin.io/api/user/board?user=akashmarkad)
 </div>
 
 <div align="center">
-<!-- <h1> Hacktoberfest 2022 Badge Board</h1> -->
-![@akashmarkad's Holopin board](https://holopin.io/api/user/board?user=akashmarkad)
+  
+
   
 </div>
     
