@@ -65,8 +65,9 @@ You can click the Preview link to take a look at your changes.  --->
 </div>
 
 <div align="center">
-<h1> Hacktoberfest 2022 Badge Board</h1>
+<!-- <h1> Hacktoberfest 2022 Badge Board</h1> -->
 ![@akashmarkad's Holopin board](https://holopin.io/api/user/board?user=akashmarkad)
+  
 </div>
     
 <div align="center">
