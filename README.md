@@ -2,7 +2,7 @@
 <!--- AkashMarkad/AkashMarkad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  --->
 
-<div align="center"> 
+<div align="" float="right"> 
   
 ![Profile views](https://gpvc.arturio.dev/AkashMarkad)  
 </div>
