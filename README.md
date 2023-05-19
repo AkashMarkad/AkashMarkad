@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.  --->
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 
 <p align="center">
-  <samp>I am a Last year student at Rajarambapu Institute of Technology Islampur , Sangli . I am currently doing my BTech in Computer Science and Information Technology. 
+  <samp>I am a Last year student at Rajarambapu Institute of Technology Islampur , Sangli . I am currently pursuing BTech in Computer Science and Information Technology. 
 </samp><br>
 </p>
 
