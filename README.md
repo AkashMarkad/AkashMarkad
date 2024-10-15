@@ -69,8 +69,3 @@ You can click the Preview link to take a look at your changes.  --->
 [![@akashmarkad's Holopin board](https://holopin.io/api/user/board?user=akashmarkad)](https://holopin.io/@akashmarkad)
   
 </div>
-  
-<div align="center">
-  <a href="https://github.com/AkashMarkad/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
