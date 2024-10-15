@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.  --->
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 
 <p align="center">
-  <samp>I have completed my BTech in Computer Science and Information Technology (2023). 
+  <samp>I am a passionate Software Engineer at Tata Elxsi, with a strong interest in problem-solving through Data Structures and Algorithms (DSA). I specialize in full-stack Java development and project development, constantly striving to deliver efficient and innovative solutions.
 </samp><br>
 </p>
 
