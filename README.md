@@ -1,14 +1,14 @@
 <!-- AkashMarkad/AkashMarkad is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. -->
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=AkashMarkad&color=brightgreen" alt="Profile Views" />
 </p>
 
 <h1 align="center">👋 Hello, I’m <a href="https://github.com/AkashMarkad">Akash Markad</a></h1>
 
-<h2 align="center">👨‍💻 Who am I?</h2>
+<h2 align="left">👨‍💻 Who am I?</h2>
 
-<p align="center">
+<p align="left">
   <samp>
     I am a passionate Software Engineer at Tata Elxsi, with a strong interest in problem-solving through Data Structures and Algorithms (DSA).<br />
     I specialize in full-stack Java development and project development, constantly striving to deliver efficient and innovative solutions.
