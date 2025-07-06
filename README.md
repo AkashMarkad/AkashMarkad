@@ -1,68 +1,82 @@
-
-<!--- AkashMarkad/AkashMarkad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.  --->
-
-&nbsp;![](https://komarev.com/ghpvc/?username=AkashMarkad&color=brightgreen)
-
-# 👋 Hello, I’m [Akash Markad](https://github.com/AkashMarkad)
-<!-- <h1 align="center"> Hi 👋, I'm Akash Markad</h1> -->
-<p align="center">
-    <a href="https://github.com/AkashMarkad"></a> 
-</p>
-<h2 align="center"> 👨‍💻 Who am I?</h2>
+<!-- AkashMarkad/AkashMarkad is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. -->
 
 <p align="center">
-  <samp>I am a passionate Software Engineer at Tata Elxsi, with a strong interest in problem-solving through Data Structures and Algorithms (DSA). I specialize in full-stack Java development and project development, constantly striving to deliver efficient and innovative solutions.
-</samp><br>
+  <img src="https://komarev.com/ghpvc/?username=AkashMarkad&color=brightgreen" alt="Profile Views" />
 </p>
 
+<h1 align="center">👋 Hello, I’m <a href="https://github.com/AkashMarkad">Akash Markad</a></h1>
 
-<h2 align="center">Reach out to me on </h2>
-
-<div align="center">
-
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AkashMarkad) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akash-markad-7218b4195/) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akash_markad_001/) 
-
-<!-- <a href="https://linkedin.com/in/akash-markad-7218b4195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash Markad" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_markad_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_markad_001" height="30" width="40" /></a>
- -->
-</div>
-<h2 align="center"> 🔭 Technology Stack</h2>
+<h2 align="center">👨‍💻 Who am I?</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/html5%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white"     />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white " />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white " />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/python%20-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/express%20-%2342853D.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/mongodb%20-%2342853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/java%20-%2342853D.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
- </p>
+  <samp>
+    I am a passionate Software Engineer at Tata Elxsi, with a strong interest in problem-solving through Data Structures and Algorithms (DSA).<br />
+    I specialize in full-stack Java development and project development, constantly striving to deliver efficient and innovative solutions.
+  </samp>
+</p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkashMarkad&count_private=true&show_icons=true&theme=tokyonight" />
-</div>
+---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMarkad&layout=compact&theme=react&count_private=false" />
-</div>
+<h2 align="center">📫 Reach out to me on</h2>
 
- <div align="center">
-     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashMarkad&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
- 
+<p align="center">
+  <a href="https://github.com/AkashMarkad">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akash-markad-7218b4195/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/akash_markad_001/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" />
+  </a>
+</p>
 
-<div align="center">
-    
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AkashMarkad) 
-</div>
+---
 
-<div align="center">
- 
-[![@akashmarkad's Holopin board](https://holopin.io/api/user/board?user=akashmarkad)](https://holopin.io/@akashmarkad)
-  
-</div>
+<h2 align="center">🚀 Technology Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%2342853D.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%2342853D.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-%2342853D.svg?&style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2342853D.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2342853D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashMarkad&count_private=true&show_icons=true&theme=tokyonight" alt="Akash's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMarkad&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMarkad&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AkashMarkad&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<h2 align="center">🏅 Holopin Badges</h2>
+
+<p align="center">
+  <a href="https://holopin.io/@akashmarkad">
+    <img src="https://holopin.io/api/user/board?user=akashmarkad" alt="@akashmarkad's Holopin board" />
+  </a>
+</p>
