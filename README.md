@@ -20,14 +20,14 @@
 <h2 align="center">📫 Reach out to me on</h2>
 
 <p align="center">
-  <a href="https://github.com/AkashMarkad">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akash-markad-7218b4195/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/akash_markad_001/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" />
+  <a href="https://github.com/AkashMarkad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/akash-markad-7218b4195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/akash_markad_001/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
