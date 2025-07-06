@@ -1,8 +1,8 @@
 
 <!--- AkashMarkad/AkashMarkad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.  --->
-
-&nbsp;![](https://komarev.com/ghpvc/?username=AkashMarkad&color=brightgreen)
+<div>
+&nbsp;![](https://komarev.com/ghpvc/?username=AkashMarkad&color=brightgreen)</div>
 # 👋 Hello, I’m [Akash Markad](https://github.com/AkashMarkad)
 <!-- <h1 align="center"> Hi 👋, I'm Akash Markad</h1> -->
 <p align="center">
