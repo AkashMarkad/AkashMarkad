@@ -75,7 +75,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AkashMarkad&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashMarkad&theme=dracula&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
