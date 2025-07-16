@@ -66,9 +66,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMarkad&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMarkad&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AkashMarkad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
