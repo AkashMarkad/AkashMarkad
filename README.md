@@ -69,9 +69,8 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AkashMarkad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/media/example.svg" alt="GitHub Streak" />
 </p>
-
 
 ---
 
