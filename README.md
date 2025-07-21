@@ -89,3 +89,4 @@
     <img src="https://holopin.io/api/user/board?user=akashmarkad" alt="@akashmarkad's Holopin board" />
   </a>
 </p>
+[![An image of @akashmarkad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashmarkad)](https://holopin.io/@akashmarkad)
